@@ -1,0 +1,12 @@
+.paired {
+  background-color: rgba(255, 0, 0, 0.3);
+}
+.statused {
+  background-color: rgba(238, 255, 0, 0.3);
+}
+.selected {
+  background-color: #002fff;
+}
+.massstatus {
+  background-color: #ff0095;
+}
